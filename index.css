@@ -1,0 +1,472 @@
+*  {
+    Box-sizing: border-box;
+    Margin: o;
+    Padding:0;
+    font-family:sans-serif;
+}
+html {
+       font-size: 62.5%;
+}
+
+.mdiv1 { 
+         position: relative;
+         width:100%;
+         height:600px;
+         padding-top: 5px;
+         text-align: center;
+         background-image:url("headbackground.jpg");
+         background-size: cover;
+         color:white;
+}
+p { 
+   font-size: 1.5rem;
+   font-weight: 500;
+   color: rgba(0, 0, 0, 0.863);
+}
+.hdlogo {
+         position: absolute;
+         top: 11px;
+         left: 520px;
+}
+.btn1 {
+       background-color:rgb(218, 33, 33);
+       color:white;
+       border:0px;
+       border-radius: 20px;
+       padding:9px 10px;
+       margin: 25px;
+       margin-top: 30px;
+       text-decoration: none;
+       font-weight: 600;
+       font-size: 1.8rem;
+}
+.btn1:hover {
+             background-color: rgba(212, 51, 51, 0.979);
+             color: white;
+}
+.btn2 {
+       background-color:white;
+       color:black;
+       border:none;
+       border-radius: 20px;
+       padding: 9px 9px;
+       font-weight: 600;
+       font-size: 1.8rem;
+       text-decoration: none;
+}
+.sdiv1 {
+        position: absolute;
+        font-size: 2.0rem;
+        top: -15px;
+        right: 0px;
+        width: 300px;
+        height: 100px;
+        text-decoration: none;
+        text-align: center;
+  }
+  .sdiv2 {
+          position:absolute;
+          top: 250px;
+          left: 350px;
+}
+.h1hd {
+       font-size: 3.5rem;
+       font-weight: 700;
+       font-family: Arial, Helvetica, sans-serif;
+}
+  #addy {
+         font-weight: bolder;
+         font-size: 1.5rem;
+         border-color: blue;
+         border-width: 2px;
+         border-radius: 25px;
+         padding-left: 30px;
+         padding-top: 17px;
+         padding-bottom: 17px;
+         padding-right: 150px;
+  }
+  #savaddy {
+            border-radius: 20px;
+            padding-left: 15px;
+            padding-top: 8px;
+            padding-bottom: 8px;
+            border: none;
+            font-weight: bolder;
+}
+div.mdiv2 {
+           background-color: white;
+           position: relative;
+           width: 100%;
+           height: 1200px;
+           text-decoration: none;
+}
+.sec1  {  
+         position:absolute;
+         top: 100px;
+         text-align: center;
+         left: 120px;
+         
+}
+.sec2  {
+         position:absolute;
+         top: 100px;
+         left: 500px;
+         text-align: center;
+}
+.sec3  {
+         position:absolute;
+         top: 100px;
+         left:900px;
+         text-align: center;
+         text-decoration: none;
+}
+.sec4  { 
+         position:absolute;
+         top: 750px;
+         left:100px;
+}
+.sec5  {
+        position:absolute;
+        top: 650px;
+        right:100px;
+}
+.h1wgth {
+       font-weight: 700;
+       font-size: 2.7rem;
+}
+.h1wgt {
+        font-weight: 700;
+        font-size: 3.2rem;
+        
+}
+.pwgt {
+       font-size: 1.8rem;
+}
+.h1wgt2 {
+       font-weight: 700;
+       font-size: 4.0rem;
+       
+}
+a:link {
+        color: red;
+        background-color: transparent;
+        text-decoration: none;
+        font-size: 1.5rem;
+    }
+    
+    a:visited {
+               color: white;
+               background-color: transparent;
+               text-decoration: none;
+    }
+    
+    a:hover {
+             color: red;
+             background-color: transparent;
+             text-decoration: underline;
+    }
+    
+    a:active {
+              color: red;
+              background-color: transparent;
+              text-decoration: underline;
+    }
+    .mdiv3 {
+            position: relative;
+            height: 620px;
+            width: 100%;
+            background-color: rgb(252, 234, 231);
+    }
+  .sec6 {
+         position: absolute;
+         margin-left: 100px;
+         margin-bottom: 500px;
+         top: 100px;
+  }
+  .sec7 {
+         position: absolute;
+         right: 70px;
+         top: 180px;
+  }
+  .mdiv4 {
+          height: 600px;
+          width: 100%;
+          position: relative;
+          background: url("grapes.jpeg");
+          text-align: center;
+          background-repeat: no-repeat;
+          background-size: cover;
+  }
+  .overlay {
+            background-color: rgba(0, 0, 0, 0.438);
+            width: 100%;
+            height: 100%;
+  }
+  .sectt8 {
+         position: absolute;
+         top: 120px;
+         left: 400px;
+         color: white;
+  }
+  #h2ov {
+         font-size: 1.9rem;
+  }
+  div.mdiv5 {
+             position: relative;
+             width: 100%;
+             height: 600px;
+             background-color: white;
+  }
+  div.sec8 {
+            position: absolute;
+            top: 150px;
+            left: 100px;
+            color: black;
+  }
+  .btn1i {
+         background-color:rgb(218, 33, 33);
+         color:white;
+         border:0px;
+         border-radius: 20px;
+         padding:15px;
+         text-decoration: none;
+}
+  div.sec9 {
+            position: absolute;
+            top: 50px;
+            right: 100px;
+  }
+  div.mdiv6 {
+             position: relative;
+             width: 100%;
+             height: 1450px;
+             background-color: rgb(252, 234, 231);
+  }
+  div.sec10 {
+             position: absolute;
+             top: 30px;
+             left: 500px;
+             text-align: center;
+  }
+  div.sec11 {
+             position: absolute;
+             top: 150px;
+             left:150px;
+  }
+   div.sec12 {
+              position: absolute;
+              top: 150px;
+              left: 750px;
+}
+div.sec13 {
+           position: absolute;
+           top: 500px;
+           left:150px;
+           text-align: center;
+}
+div.sec14 {
+           position: absolute;
+           top: 500px;
+           left: 750px;
+           text-align: center;
+}
+.btn1fl {
+         background-color:rgb(218, 33, 33);
+         color:white;
+         border:0px;
+         border-radius: 20px;
+         padding:9px 10px;
+         margin: 25px;
+         margin-top: 10px;
+         text-decoration: none;
+         font-weight: 600;
+         font-size: 1.8rem;
+}
+div.sec15 {
+           position: absolute;
+           top: 750px;
+           left:150px;
+}
+div.sec16 {
+           position: absolute;
+           top: 750px;
+           left: 750px;
+}
+div.sec17 {
+           position: absolute;
+           top: 1100px;
+           left:150px;
+}
+div.sec18 {
+           position: absolute;
+           top: 1100px;
+           left: 750px;
+}
+div.mdiv7 {
+           position: relative;
+           width: 100%;
+           height: 650px;
+           background-color: white;       
+}
+div.sec19 {
+           position: absolute;
+           top: 50px;
+           left: 500px; 
+           text-align: center;   
+}
+div.sec20 {
+           position: absolute;
+           top: 300px;
+           left: 100px;    
+}
+div.sec21 {
+           position: absolute;
+           top: 200px;
+           right: 100px;    
+}
+div.mdiv8 {
+           position: relative;
+           width: 100%;
+           height: 550px;
+           background-color: rgb(252, 234, 231); 
+}
+div.sect1 {
+           position: absolute;
+           top: 50px;
+           left: 100px;    
+}
+div.sect2 {
+           position: absolute;
+           top: 100px;
+           right: 100px;   
+}
+div.mdiv9 {
+           position: relative;
+           width: 100%;
+           height: 250px;
+           text-align: center;
+           font-size: 1.5rem;
+           color: rgba(0, 0, 0, 0.815);
+           
+}
+table {
+       border-collapse: collapse;
+       width: 100%;
+}
+
+td, th {
+        text-align: center;
+        padding: 8px;
+}
+th {
+    border-bottom: solid;
+    border-color: grey;
+}
+td {
+    font-weight: 600;
+}
+td:hover {
+          background-color: rgb(247, 244, 244);
+} 
+th:hover {
+          background-color: rgb(247, 244, 244);
+} 
+div.footerbg {
+              position: relative;
+              height: 620px;
+              background-color: black;
+}
+.footer1 {
+         position:absolute;
+         top: 20px;
+         left: 100px;
+         font-size: 1.0rem;
+         line-height: 20px;
+}
+.footer2 {
+         position: absolute;
+         top: 80px;
+         left: 400px;
+         font-size: 1.0rem;
+         line-height: 20px;
+}
+.footer3 {
+          position: absolute;
+          top: 80px;
+          right: 550px;
+          font-size: 1.0rem;
+          line-height: 20px;
+}
+.footer4 {
+          position:absolute;
+          top: 80px;
+          right: 250px;
+          font-size: 1.0rem;
+          line-height: 20px;
+}
+.footer5 {
+          position:absolute;
+          font-size: 1.0rem;
+          left: 100px;
+          top: 200px;
+          line-height: 20px;
+}
+.footer6 {
+          position: absolute;
+          font-size: 1.0rem;
+          left: 300px;
+          top: 200px;
+          line-height: 20px;
+}
+.footer7 {
+          position: absolute;
+          font-size: 1.0rem;
+          left: 500px;
+          top: 200px;
+          line-height: 20px;
+}
+.footer7i {
+           position: absolute;
+           right: 150px;
+           top: 200px;
+}
+.footer8 {
+          position: absolute;
+          font-size: 0.1rem;
+          top: 580px;
+          left: 100px;
+          padding: 5px;
+}
+.lbd {
+      font-size: 2.4rem ;
+      padding-left: 2px;
+}
+.f1 {
+     font-size: 1.5rem;
+     font-weight: 600;
+     color:white;
+     padding-bottom: 5px;
+     text-align: start;
+}
+a {
+   cursor: pointer;
+   list-style: none;
+   text-decoration: none;
+   color: #fff;
+   font-weight: 400;
+   text-align: start;
+}
+.select {
+         position: absolute;
+         top: 580px;
+         right: 300px;
+}
+select {
+        border-radius: 10px;
+        padding: 2px 5px;
+}
+.fticon {
+       position: absolute;
+       top: 580px;
+       right: 130px;
+}
