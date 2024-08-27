@@ -14,7 +14,7 @@ html {
          height:600px;
          padding-top: 5px;
          text-align: center;
-         background-image:url("headbackground.jpg");
+         background-image:url("./headbackground.jpg");
          background-size: cover;
          color:white;
 }
@@ -192,7 +192,7 @@ a:link {
           height: 600px;
           width: 100%;
           position: relative;
-          background: url("grapes.jpeg");
+          background: url("./grapes.jpeg");
           text-align: center;
           background-repeat: no-repeat;
           background-size: cover;
